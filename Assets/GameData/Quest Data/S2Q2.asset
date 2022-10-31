@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b00acb30b6c330a4493bff53d6441b20, type: 3}
+  m_Name: S2Q2
+  m_EditorClassIdentifier: 
+  qustName: "\u304D\u306E\u3053\u63A2\u3057"
+  description: "\u304D\u306E\u3053\u3092\u4E8C\u3064\u304A\u306D\u3048\u3061\u3083\u3093\u306B\u6E21\u3059\u3002\u304D\u306E\u3053\u306F\u4F55\u306E\u610F\u5473\u3082\u306A\u3044\u3051\u3069\u3002\u30A2\u30D4\u30FC\u30EB\u30DD\u30A4\u30F3\u30C8\u306F\u9053\u5177\u306E\u62FE\u3044\u3068\u9053\u5177\u3092\u6E21\u3059\u7CFB\u306E\u30AF\u30A8\u30B9\u30C8\u30B7\u30B9\u30C6\u30E0\u3002RPG\u5B9A\u756A\u3060\u308D\u3046\u3002\u306A\u3051\u308C\u3070\u30C0\u30E1\u3060\u3088\u306D(\u7B11)"
+  isStart: 0
+  isComplete: 0
+  isFinished: 0
+  questRequires:
+  - name: kinoko
+    requireAmount: 2
+    currentAmount: 0
+  rewards:
+  - ItemData: {fileID: 11400000, guid: 44be8dd9c1096b34ea7ba11acee9a93e, type: 2}
+    amount: -2

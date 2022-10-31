@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa7758da15e87494da1a148143eeeb1e, type: 3}
+  m_Name: NPC01
+  m_EditorClassIdentifier: 
+  dialoguePieces:
+  - ID: Piece01
+    image: {fileID: 21300000, guid: c99c16edb04ed494eb205bf5fbc07179, type: 3}
+    text: "\u304A\u75B2\u308C\u30D2\u30ED\u30A4\u30F3\u69D8\uFF01\u30C6\u30B9\u30C8\u306B\u5354\u529B\u3057\u3066\u3042\u308A\u304C\u3068\u3046\u306D\uFF01(^^)"
+    quest: {fileID: 0}
+    options:
+    - text: "\u307E\u3042\uFF5E\u4ED6\u306E\u9078\u629E\u80A2\u306A\u3044\u3060\u304B\u3089\u3002\u3002"
+      targetID: 
+      takeQuest: 0
+  isDialogueEnd: 0

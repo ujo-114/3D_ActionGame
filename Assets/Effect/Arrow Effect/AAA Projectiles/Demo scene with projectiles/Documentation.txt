@@ -1,0 +1,38 @@
+Asset Creator - Vladislav Horobets (ErbGameArt).
+All that is in the folder "AAA Projectiles" can be used in commerce, even demo scene files.
+-----------------------------------------------------
+
+Using:
+
+1) Shaders
+1.1)The "Use depth" on the material from the custom shaders is responsible for the depths of the material.
+
+--------------------IMPORTANT!-----------------------
+1.2)Materials are not displayed if you don't use depth in your Graphics Settings (disable depth or use checkmark "Depth off?" in the materials).
+    If you use the Forward rendering path, or turn off the light source in realtime, or use orthographic camera, the materials become transparent.
+    Solution: disable checkbutton "Use depth?" in all materials.
+
+1.3)Use "Center glow"[MaterialToggle] only with particle system. This option is used to darken the main texture with a white texture (white is visible, black is invisible).
+    If you turn on this feature, you need to use "Custom vertex stream" (Uv0.Custom.xy) in tab "Render".
+    And don't forget to use "Custom data" parameters in your PS.
+1.4)The Electricity shader is similar to "dissolve" shader. A mask is a texture that is distorted by noise.
+	The noise texture in the shader is divided into two textures with different speeds - Use "Speed X/Y" value for first texture and "Z/W" for second texture.
+1.5)DistortTexture shader. The noise texture is used to distort the main texture. 
+    The texture of the mask only affects noise. The main texture won't be distorted in the black places of the mask.
+
+2)Light.
+2.1)You can disable light in the main effect component (delete light and disable light in PS). 
+    Light strongly loads the game if you don't use light probes or something else.
+
+3)Scripts
+3.1) Use "ParticleCollisionInstance" script with particle system. It works if you turn on "Send Collision Messages " in the particle system (Collision tab).
+
+-----------------------------------------------------
+I recomend you to download free Post Processing Stack by Unity Technologies and use post effect "bloom".
+Effects on video and screenshots are made using the settings file "CC" (Demo scene folder) for PPS.
+-----------------------------------------------------
+
+If you have any questions, write to e-mail gorobecn2@gmail.com
+
+
+PS. Do not forget to rate this asset, this will greatly help ^^

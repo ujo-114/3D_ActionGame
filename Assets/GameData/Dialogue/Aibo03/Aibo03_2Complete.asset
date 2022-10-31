@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa7758da15e87494da1a148143eeeb1e, type: 3}
+  m_Name: Aibo03_2Complete
+  m_EditorClassIdentifier: 
+  dialoguePieces:
+  - ID: Piece01
+    image: {fileID: 21300000, guid: b2a6892695852fe4fbfed8bdfbdef06a, type: 3}
+    text: "\u7D50\u69CB\u65E9\u3044\u3088\u306D\uFF01\u307E\u3042\u3053\u306E\u30DC\u30B9\u306F\u3061\u3087\u3063\u3068\u7C21\u5358\u3057\u3059\u304E\u305F\u304B\u3082\u3002\u3002\u3002"
+    quest: {fileID: 0}
+    options: []
+  - ID: Piece02
+    image: {fileID: 21300000, guid: 99c1bb1ca109b97438d7e4d7ae0987ce, type: 3}
+    text: "\u78BA\u304B\u306B\u305D\u3046\u3060\u3063\u305F\u3051\u3069\u3002\u3002\u3002\u3058\u3083\u3042\u307E\u3060\u6B21\u3042\u308B\u306E\u304B\uFF1F"
+    quest: {fileID: 0}
+    options: []
+  - ID: Piece03
+    image: {fileID: 21300000, guid: b2a6892695852fe4fbfed8bdfbdef06a, type: 3}
+    text: "\u3046\u3093\u3002\u6B21\u306F\u30E9\u30B9\u30C8\u30EC\u30D9\u30EB\u3060\u3088\u3002\u4F5C\u3063\u305F\u6A5F\u80FD\u3082\u307B\u307C\u5C55\u793A\u3057\u3066\u305F\u304B\u3089\u306D\u3002\u3069\u3046\uFF1F\u30E9\u30B9\u30C8\u30B7\u30FC\u30F3\u307E\u3067\u3044\u304F\uFF1F"
+    quest: {fileID: 11400000, guid: 662271e09ff2e3e4e8f7d973b40481fe, type: 2}
+    options:
+    - text: "\u3046\u3093\uFF01"
+      targetID: 
+      takeQuest: 1
+    - text: "\u3044\u3084\u3001\u3082\u3046\u3061\u3087\u3063\u3068\u5F85\u3063\u3066\u304F\u308C"
+      targetID: 
+      takeQuest: 0
+  isDialogueEnd: 0

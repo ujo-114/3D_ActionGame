@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa7758da15e87494da1a148143eeeb1e, type: 3}
+  m_Name: NPC04Start
+  m_EditorClassIdentifier: 
+  dialoguePieces:
+  - ID: Piece01
+    image: {fileID: 21300000, guid: 49ff31108e72d7e40b0273f16df54b9f, type: 3}
+    text: "\u57CE\u9580\u5916\u306B\u884C\u3063\u3066\u3001\u304D\u306E\u3053\u3092\u4E8C\u3064\u6301\u3063\u3066\u904B\u3093\u3067\u304F\u3060\u3055\u3044"
+    quest: {fileID: 0}
+    options: []
+  - ID: Piece02
+    image: {fileID: 21300000, guid: 99c1bb1ca109b97438d7e4d7ae0987ce, type: 3}
+    text: "\u306A\u3093\u3060\uFF1F\u3053\u306E\u30B2\u30FC\u30E0\u3001\u3082\u306E\u3092\u62FE\u3048\u308B\u306E\u304B\uFF1F"
+    quest: {fileID: 0}
+    options: []
+  - ID: Piece03
+    image: {fileID: 21300000, guid: 49ff31108e72d7e40b0273f16df54b9f, type: 3}
+    text: "\u305D\u3046\u3060\u3088\uFF01\u9053\u5177\u306B\u8FD1\u3065\u3044\u3066\"R\"\u3092\u62BC\u305B\u3070\u3044\u3044\u3088\u3002\u7C21\u5358\u3067\u3057\u3087\u3046\uFF1F\u3058\u3083\u3042\u304A\u9858\u3044\u3059\u308B\u306D\u3001"
+    quest: {fileID: 11400000, guid: 9b287a3e587d65f4eaf799ccc3e71675, type: 2}
+    options:
+    - text: "\u308F\u304B\u3063\u305F"
+      targetID: 
+      takeQuest: 1
+  isDialogueEnd: 0
