@@ -1,0 +1,213 @@
+Thanks for purchasing this pakage, I hope you are going to have as much fun building your interiors, as I had compiling this package.
+
+Please could you rate and possible review the package, it really assist others in making informed purchases
+when spending there hard earned money :) 
+
+Mobile & Desktop:
+The textures sheets has intuative atlas textures usage with a huge amount of prefabs reading of each textures sheet.
+The groupig was done if such a way that say all the wooden furniture can be used with another project a with eaze.
+This will assit with lowered draw calls aspecially when using Static Batching or MeshCombine functions.
+
+Also, all the screenshots and DEMOS that you have seen has been achieved with a Diffuse map only,
+so no funnies that a mobile device might not be able to display.
+
+The scenes that was used for the screenshots are all inside the Demo Scenes directory.
+
+
+UPDATE 1.8.1 - Taverns & Inns
+
+NEW additions: 36 NEW items + Old Eagle Tavern FPS & Sleepy Raven Inn Top Down Demo scenes
+
+- 30 New curtain meshes
+- 30 New curtain prefabs
+- 6 new sword & shield prefabs
+- Old Eagle Tavern FPS & Sleepy Raven Inn Demo scenes
+
+
+UPDATE 1.8 - Stone Keep
+
+NEW additions: 682 NEW items + Stone Keep FPS & Top Down Demo scenes
+
+- 289 New meshes
+- 393 New prefabs
+- Stone Keep FPS & TopDown demo scenes
+
+Breakdown:
+- Walls/Ceilings Upgrade
+  - Tri walls to required wall sets(10)
+  - Extra vaulted roof prefabs(2)
+  - Extra pillars(4)
+- Secret ways Upgrade
+  - Trapdoors for Floors
+  - Secret doors for 5 wall sets
+  - Levers(2) and switches(2)
+  - Ladders(23)
+  - Hanging ropes(8)
+- Kitchen Upgrade
+  - Cooking stations(18)
+  - Cutlery items(43)
+  - Pots(11)
+- Library Upgrade
+  - Book piles(34)
+  - Double height Bookshelves(10)
+  - Scroll clusters(5)
+- Forge Upgrade
+  - Shields(19)
+
+and more ...
+
+                            ****
+
+UPDATE 1.7 - Fifth update - Catacombs & Crypts
+
+NEW additions: 785 NEW items + The Crypt Demo scene
+
+- 328 New meshes
+- 416 New prefabs
+- 41 New particle prefabs
+- The Crypt FPS & TopDown demo scenes
+
+Breakdown:
+
+- NEW Walls x 128
+- Barrel Vaulted roofs X 28
+- Broken Walls x 8
+- Bones x 26
+- Cages x 14
+- Black Candles x 8
+- Red Candles x 8
+- Yellow Candles x 8
+- Coffins x 9
+- Sarcophagus x 21
+- Roots x 12
+- Urns x 18
+- Catacombs Steps x 12
+- Catacombs Doors x 5
+- Catacombs Floors X 61
+- New particles
+  * Fireflies x 10
+  * Fields x 5
+  * Fog x 20
+  * Gas x 6
+  * Mists x 5
+
+                            ****
+
+UPDATE 1.6 - Fourth user requested update - TopDown Demo scene example
+
+- Dragon Keep ready to use Demo scene
+- 3 QuickStart Shrine templates
+- Baked lighting made easy with Unity FREE
+
+                            ****
+
+UPDATE 1.5 - Third user requested update - Cathedral / Shrine Interiors
+
+NEW additions: 1273 NEW items + the Awesome St Alessandro Demo scene
+
+- 571 New meshes
+- 652 New prefabs
+- 50 New particle prefabs
+- St Alessandro demo scene
+- 1-2-3 easy to use step by step build example demo scene
+- .png Cathedral window template for custom stained glass design
+
+Breakdown:
+
+- Alcoves x 40
+- Balconies x 17
+- Braziers x 10
+- Wall decor x 34
+- Pedestals x 12
+- Vaulted roofs 96
+  - small 2,5m x 2,5m x 48
+  - large 5m x 5m x 48
+- Walkways x 14
+- 1 New Floor textures
+- Floors with steps x 12
+- Pillars x 127
+- Lighting x 61
+  - Large candles x 32
+  - Floor standing chandeliers x 13
+  - Table standing chandeliers x 8
+  - Hanging x 4
+  - Wall mounted x 4
+- Stone staircases x 31
+- NEW wall texture set x 13
+- Cathedral seperated window frames and glass
+  - Window frames x 35
+  - Stained glass x 50
+  - 3 prebuilt window sets
+    - Griffin
+    - Knight
+    - Leaf
+- Hanging tapestries x 31
+- Carpets x4
+- Godrays (drag&drop) x 11
+- Realistic candle flame particles
+- Realistic torch flame particles
+
+                            ****
+
+Updates:
+
+- Green Dragon Inn demo updated
+
+                            ****
+
+UPDATE 1.4 - Second user requested update - Large double-volume scene example
+
+Added the Green Dragon Inn Demo scene
+
+- Large Inn with large double volume common room
+- Stairs going up to several bedrooms
+- 10 New lighting meshes
+- 12 New lighting prefabs lit & unlit
+  - Chandeliers (8) - lit & unlit
+  - Metal torches (2) - lit & unlit
+
+                            ****
+
+UPDATE 1.3 - First user requested update - A user request for a full proper forge environment
+
+NEW additions:
+
+- Blacksmith's Forge demo scene
+- 106 new meshes
+- 112 new prefabs
+
+                            ****
+
+
+The particle effect are easy to use drag & drop prefabs.
+
+Send some screenshots to info@3dforge.co.za of your work and I will showcase them on the website
+
+Grid system:
+The tiles/walls/floors have been done with a 2,5 x 2,5 x 3 units grid size.
+
+Doors:
+The door items have been exported with the Y Axis being the rotational axis.
+
+Roofs:
+I used the floor prefabs, just grab the whole bunch, rotate and vertice-snap them into place.
+
+I would like to invite users to email me there scenes files that they proud of,
+they are tiny and I will have a look at them and include them in futiure updates.
+Permission to have me use them as I see fit would have to be included in the email.
+
+Credit would be given to creators.
+
+
+More future updates planned:
+
+- Cathedrals
+- Catacombs
+
+
+Enjoy
+Cobus
+info@3dforge.co.za
+
+You are allowed to use the textures with the 3D model but not extract and resell the texture itself
+One or more textures on these 3D models have been created with images from CGTextures.com
