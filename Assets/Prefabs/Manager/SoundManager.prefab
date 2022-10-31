@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7478337329887599614
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7478337329887599609}
+  - component: {fileID: 7478337329887599608}
+  m_Layer: 0
+  m_Name: SoundManager
+  m_TagString: SoundManager
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7478337329887599609
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7478337329887599614}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 5.6109056, y: 1.6299999, z: -0.18169653}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7478337329887599608
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7478337329887599614}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f696c3845ee3c154cab8b6a0b4fbe32a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  audioSource: {fileID: 0}
+  audioSource2: {fileID: 0}
+  swingAudio: {fileID: 8300000, guid: 7e80c750245b5d44392cbd5bfd20c01a, type: 3}
+  hitAudio: {fileID: 8300000, guid: 84a3be8547a26ed48875b90de32e2bd6, type: 3}
+  blockedAudio: {fileID: 8300000, guid: 2375188bf5181d84fb554a44ad8486c6, type: 3}
+  perfectBlockAudio: {fileID: 8300000, guid: c179f7c1def2a4e449135e9316cc7b93, type: 3}
+  moveAudio: {fileID: 8300000, guid: dc739d782ed6fe5439fb6de4a13f53bd, type: 3}
+  arrowAudio: {fileID: 8300000, guid: e41b785fa01e05a4c91fd70da7be9786, type: 3}
+  skillAudio: {fileID: 8300000, guid: 87f045c112dc1aa459355fce07522fa5, type: 3}
+  kusuriAudio: {fileID: 8300000, guid: f278dc9a7df2f6b4baf7a26cf7ebaa6c, type: 3}
+  executionAudio: {fileID: 8300000, guid: 105e5fa208a418d45bd7bbc1e51d0415, type: 3}
